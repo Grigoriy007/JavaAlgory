@@ -47,6 +47,7 @@ public class Zadanie1 {
             array[largest] = temp;
 
             heap(array, heapSize, largest);
+
         }
 
     }
